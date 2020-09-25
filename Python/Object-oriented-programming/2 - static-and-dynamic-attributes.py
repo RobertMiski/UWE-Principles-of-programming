@@ -1,3 +1,9 @@
+"""
+static and dynamic is a way of explaning how the attributes are interated with.
+static attributes effect every instance of the class where dynamic on effects a single instance.
+dynamic attributes are initilised in the __init__ method and static a created outside at the begging of the class.
+"""
+
 # class from file 1 - 1 - classes-objects-&-basics.py
 class Animal:
     staticAttribute = 10

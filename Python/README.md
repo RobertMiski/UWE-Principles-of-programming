@@ -8,11 +8,13 @@ In this folder it will have verious files to show different techquies to help an
 - variables and data types
 - Selections (how to use if, if elif, if else statments)
 - Iteration (to loop through someting)
+- importing (importing you own code from another file or a module from online)
 
 ## Methods-functions- subroutines
 
 - defining a method
 - passing data in to a method (arguments)
+- returning values from methods
 
 ## Object-oriented-programming
 
