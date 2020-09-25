@@ -21,4 +21,5 @@ def main3(num):
 
 if __name__ == "__main__":
     main(2)
-    main(6)
+    # main2(6)
+    # main3(5)

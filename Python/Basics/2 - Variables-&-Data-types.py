@@ -4,10 +4,13 @@ def main():
     name = "name"
     print(name)
 
-# you have different data types to hold diffrent data
-# python unlike C has implict typing meaning it assigns the data type on run time
-# there are some key words that can't be used as a varible name as pyhton uses them in there interperter for other funtions
-#  and, as, assert, break, class, continue, def, del, elif, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, not, or, pass, raise, return, True, try, while, witch, yield
+"""
+you have different data types to hold diffrent data
+python unlike C has implict typing meaning it assigns the data type on run time
+there are some key words that can't be used as a varible name as pyhton uses them in there interperter for other funtions
+and, as, assert, break, class, continue, def, del, elif, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, not, or, pass, raise, return, True, try, while, witch, yield
+"""
+
 def DataTypes():
     # primitive data types
     num = 1

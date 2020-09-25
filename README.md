@@ -58,7 +58,7 @@ mostly thems for look of the editor aswell as a formatter.
 
 - [Prettier by Perttier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-- [Visual Studio IntelliCode by Microsoft](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [Visual Studio IntelliCode by Microsoft](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) helps for auto completion
 
 - [Git lens (for working with github) by Eric Amodio](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
