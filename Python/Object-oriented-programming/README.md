@@ -15,9 +15,9 @@ class name:
 
 This file explains the difference between both dynamic and static attributes and how to use them.
 
-## 3 - static-methods
+## 3 - static-functions
 
-This file explains how to use static method in a class how how to access them.
+This file explains how to use static function in a class how how to access them.
 
 ## 4 - Inheritance
 

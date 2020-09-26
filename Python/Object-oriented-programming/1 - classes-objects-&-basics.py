@@ -2,7 +2,7 @@
 So far you have been coding in a procedural paradigm meaing top down like a set of intructions.
 Object oriented paradigm is different and works by creating objects and using then to interact this way your code can jump around and be more complex.
 Objects in computer science is basicly writing a blue print to try and recreate something from real life.
-All object will have a name, attributes (variables) and behaviours (methods).
+All object will have a name, attributes (variables) and behaviours (functions).
 
 all video games use Object oriented programming to create them.
 
@@ -13,12 +13,12 @@ In python to create a object we use the key word class
 """
 
 class Animal:
-    # static attributes are created like this outside of the __init__ method
+    # static attributes are created like this outside of the __init__ function
     staticAttribute = 10
 
-    # __init__ is the first method to run once you create an object
+    # __init__ is the first function to run once you create an object
     # self is how we create attributes all being dynamic
-    # you can pass in arguemtns to the __init__ method to set the attributes right at the beggin or if none a passed 100 will de default.
+    # you can pass in arguemtns to the __init__ function to set the attributes right at the beggin or if none a passed 100 will de default.
     def __init__(self, health = 100, hunger = 100):
         self.health = health
         self.hunger = hunger

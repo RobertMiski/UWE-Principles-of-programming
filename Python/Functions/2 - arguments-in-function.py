@@ -1,6 +1,6 @@
 """
-methods can be passed something called arguments.
-arguments are data that has been passed in to the method.
+functions can be passed something called arguments.
+arguments are data that has been passed in to the function.
 """
 # passing in predefined arguemtns
 def main(num1, num2):

@@ -31,7 +31,7 @@ else:
 
 ## 4 - Iteration
 
-This file will show you all of the different methods to iterate through arrays, tuple, dictionary and string using:
+This file will show you all of the different functions to iterate through arrays, tuple, dictionary and string using:
 
 `for i in range(0,5,1):`
 

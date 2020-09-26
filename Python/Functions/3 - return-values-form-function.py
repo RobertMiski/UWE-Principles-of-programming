@@ -1,4 +1,4 @@
-# when creating a method it can return nothing or it can return a value like so
+# when creating a function it can return nothing or it can return a value like so
 # the return value can be any data type you wish including custom class you've made (see Object-oriented-programming file 1)
 
 #main return nothing

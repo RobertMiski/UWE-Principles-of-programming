@@ -10,15 +10,15 @@ In this folder it will have verious files to show different techquies to help an
 - Iteration (to loop through someting)
 - importing (importing you own code from another file or a module from online)
 
-## Methods-functions- subroutines
+## Functions
 
-- defining a method
-- passing data in to a method (arguments)
-- returning values from methods
+- defining a function
+- passing data in to a function (arguments)
+- returning values from function
 
 ## Object-oriented-programming
 
 - classes/objects
 - static and dynamic attributes
-- static methods/behaviours
+- static functions/behaviours
 - Iheritance

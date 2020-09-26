@@ -21,6 +21,8 @@ This file will show you examples of different data types in C
 | `signed` | `unsigned int x;` |
 | `boolean` | `TRUE FALSE` |
 
+- the difference between a `double` and `float` is doubles are 64 bit floating point number and have 15 decimal places of precision, while float is a 32 bit floating point number with and 6 decimal places of precision
+
 ## Selction
 
 This file will shows and explains you the basics if statements work.

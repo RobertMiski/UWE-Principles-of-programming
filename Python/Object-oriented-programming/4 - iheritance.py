@@ -1,6 +1,6 @@
 """
 In Object oriented programming there is concept called Inheritance this acts like a gentic tree like how you inherent you eye colour from you parents.
-One class can inherent from another class meaning all methods that are public are there for the new class to use.
+One class can inherent from another class meaning all functions that are public are there for the new class to use.
 Sometimes called Superclass and Subclass
 """
 
@@ -52,8 +52,8 @@ class Animal:
 
 class Dog(Animal):
     
-    # initialises the animal class so we can have access to all of the attributes and methods
-    # we can also add extra attributes and methods on top that only the cat objects can use
+    # initialises the animal class so we can have access to all of the attributes and functions
+    # we can also add extra attributes and functions on top that only the cat objects can use
 
     def __init__(self, hunger=100):
         super().__init__(health=130, hunger=hunger) # all dog object will have a starting health of 130
@@ -88,7 +88,7 @@ class Dog(Animal):
 
 
 def main():
-    # the dog object has access to all public attributes and methods in both the animal and dog class
+    # the dog object has access to all public attributes and functions in both the animal and dog class
     dog = Dog()
     print(dog.getEyeColour(), dog.getHealth())
 

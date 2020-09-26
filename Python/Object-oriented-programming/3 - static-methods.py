@@ -1,4 +1,4 @@
-# class from file 1 - 1 - classes-objects-&-basics.py but added  static method
+# class from file 1 - 1 - classes-objects-&-basics.py but added  static function
 class Animal:
     staticAttribute = 10
 
@@ -43,17 +43,17 @@ class Animal:
         if(self.health == 0 or self.health < 0):
             self.isAlive = False
 
-    # static method using the @staticmethod decoration 
-    @staticmethod
-    def staticMethod():
+    # static function using the @staticfunction decoration 
+    @staticfunction
+    def staticfunction():
         Animal.staticAttribute = 50
 
 def main():
-    # changing the static attribute using a static method this static method cann't be called on an instance but on the class it self
+    # changing the static attribute using a static function this static function cann't be called on an instance but on the class it self
     animal1 = Animal()
     animal2 = Animal()
 
-    Animal.staticMethod()
+    Animal.staticfunction()
     print(animal1.getHealth(), animal2.getHealth())
 
 

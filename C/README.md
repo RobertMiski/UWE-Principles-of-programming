@@ -24,8 +24,7 @@ if not then tray anf find these folder where ever you installed you gcc complier
 - importing (importing you own code from another file or a module from online)
 -
 
-## Methods-functions- subroutines
+## functions
 
-- defining a method
-- passing data in to a method (arguments)
-- returning values from methods
+- defining a function
+- passing data in to a function (arguments)

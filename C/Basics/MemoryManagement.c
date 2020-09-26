@@ -18,8 +18,8 @@ void Pointers(){
     int age = 20; // actual variable
     int *ip; // pointer variable
 
-    printf("Address of age: %X\n", &age);
-    printf("Address of ip: %X\n", ip );
+    printf("Address of age: %p\n", &age);
+    printf("Address of ip: %p\n", ip );
 }
 
 // malloc allocates the memory and initialises the memory to all 0
@@ -60,7 +60,7 @@ void UsingRealloc(){
     printf("%s\n", str);
 }
 
-// uncomment the method you want to run.
+// uncomment the function you want to run.
 int main(){
     Pointers();
     // UsingCalloc();

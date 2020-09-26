@@ -14,8 +14,8 @@ meas i = i + 1; so increase by one. Other exaples would be i-- (i = i -1;) or ho
 void ForLoop(){
     int nums[5] = {1,2,3,4,5};
     for (int i = 0; i < sizeof(nums)/sizeof(int); i++)
-    {
-        printf("%d", nums[i]);
+    { 
+        printf("%d s", nums[i]);
     }
     return;
 }
@@ -29,13 +29,13 @@ can end.
 void whileLoop(){
     int num = 0;
     while(num < 5){
-        printf("%d", num);
+        printf("%d ", num);
         num++;
     }
     return;
 }
 
-// uncomment the method you want to run.
+// uncomment the function you want to run.
 int main(){
     ForLoop();
     // whileLoop();
