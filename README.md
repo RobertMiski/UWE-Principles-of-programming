@@ -53,3 +53,5 @@ mostly thems for look of the editor aswell as a formatter.
 - [Visual Studio IntelliCode by Microsoft](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) helps for auto completion
 - [Git lens (for working with github) by Eric Amodio](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Better comments by Aaron Bond](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+- [Clang (helps with vs code autocompletetion not an extention)](https://releases.llvm.org/3.7.0/LLVM-3.7.0-win64.exe)
