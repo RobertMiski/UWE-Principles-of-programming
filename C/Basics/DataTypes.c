@@ -19,10 +19,9 @@ int main(){
     float a = 10;
     long b = 100000;
     short s = 2;
-    unsigned int x;
     bool boolean = false;
 
-    printf("%c, %d, %f, %s, %f, %d, %d, %d, %d", c, age, num, string, a, b, s, x, boolean);
+    printf("%c, %d, %f, %s, %f, %li, %hi, %d", c, age, num, string, a, b, s, boolean);
 
     return 0;
 }

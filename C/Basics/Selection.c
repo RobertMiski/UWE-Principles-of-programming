@@ -9,7 +9,7 @@ int main(){
     int num = 5;
 
     if(num < 5){
-            printf("num is less then 5");
+        printf("num is less then 5");
     }else if ( num > 5)
     {
         printf("num is greater then 5");
