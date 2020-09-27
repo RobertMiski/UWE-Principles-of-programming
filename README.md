@@ -1,6 +1,6 @@
 # UWE-Principles-of-programming
 
-UWE Principles of programming year 1 module
+UWE Principles of programming year 1 module, [how to Contribute](https://github.com/lukeJEdwards/UWE-Principles-of-programming/blob/main/CONTRIBUTING.md)
 
 ## Programming Languages
 
